@@ -1,1 +1,1 @@
-# KPR-Solution Task completed in Hopital Management Application Using MERN Stack
+# KPR-Solution Task completed in Hospital Management Application Using MERN Stack
